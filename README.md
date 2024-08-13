@@ -1,16 +1,15 @@
-# Capstone_QualityOfLife
+# Quality Of Life Capstone
 
-#Quality of Life
 
 
 ## Table of Contents
-### PowerBi Dashboard
-### Motivation
-### Questions
-### Sources
-### The Process
-### Technologies Used
-### Conclusion
+#### PowerBi Dashboard
+#### Motivation
+#### Questions
+#### Sources
+#### The Process
+#### Technologies Used
+#### Conclusion
 
 
 ## PowerBI Dashboard
