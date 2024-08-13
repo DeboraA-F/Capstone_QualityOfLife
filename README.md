@@ -2,16 +2,6 @@
 
 
 
-## Table of Contents
-#### PowerBi Dashboard
-#### Motivation
-#### Questions
-#### Sources
-#### The Process
-#### Technologies Used
-#### Conclusion
-
-
 ## PowerBI Dashboard
 Link: [Quality of Life](https://app.powerbi.com/view?r=eyJrIjoiMWNmYjFhYjEtZWY3MC00NjRlLTk2ZmEtODkyZmMxZTQwNTVmIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9) 
 
