@@ -30,12 +30,12 @@ The happiness ranking is drawn from another source to compare our findings with 
 ## Questions
 1.	Comparing and contrasting the countries I have visited (Ghana, Antigua, Japan) with a ‘control’ my hometown 
 2.	What are the significant measures to quality of life?
-    a.	Crime rates/safety
-    b.	Health care
-    c.	Pollution/cleanliness
-    d.  Costs of living
+    * Crime rates/safety
+    * Health care
+    * Pollution/cleanliness
+    * Costs of living
 3.	Taking a deeper look
-    a. breaking down each measure by country	
+    * Breaking down each measure by country	
 4.  Taking a look using the United Nations Sustainable Development interpretation of 'happiness' and its components to see if it matches
     with the measures used
 
