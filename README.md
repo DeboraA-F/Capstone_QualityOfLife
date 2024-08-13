@@ -42,10 +42,15 @@ The happiness ranking is drawn from another source to compare our findings with 
 
 ## Sources:
 [QOL Ghana](https://www.numbeo.com/quality-of-life/in/Accra)
+
 [QOL Japan](https://www.numbeo.com/quality-of-life/country_result.jsp?country=Japan)
+
 [QOL Antigua](https://www.numbeo.com/quality-of-life/country_result.jsp?country=Antigua+And+Barbuda)
+
 [QOL Columbia](https://www.numbeo.com/quality-of-life/in/Columbia-MD)
+
 [World Happiness Report](https://www.kaggle.com/datasets/shivkumarganesh/world-happiness-report-20152022?resource=download)
+
 [United Nations Sustainable Development](https://worldhappiness.report/data/)
 
 
@@ -55,7 +60,9 @@ After finding my sources I web scraped the quality of life and its parameters fo
 
 ## Technologies Used
 Python/beautiful soup/pandas - for web scraping, normalizing and creating of the dataframes
+
 powerbi - for cleaning dataframes, creating subsets, and creating an interactive dashboard
+
 git - for version control
 
 
