@@ -3,21 +3,21 @@
 #Quality of Life
 
 
-##Table of Contents
-###PowerBi Dashboard
-###Motivation
-###Questions
-###Sources
-###The Process
-###Technologies Used
-###Conclusion
+## Table of Contents
+### PowerBi Dashboard
+### Motivation
+### Questions
+### Sources
+### The Process
+### Technologies Used
+### Conclusion
 
 
-##PowerBI Dashboard
+## PowerBI Dashboard
 Link:
 
 
-##Motivation:
+## Motivation:
 I have had the privilege to travel to Ghana, Antigua and Japan and have had pleasant experiences at each one. 
 Due to curiosity I wanted to take a look at the average quality of life respective to each country and compare them using my hometown, Columbia, Maryland as a control.
 Quality of life is subjective so I defined my parameters by costs of living, health care, crime and pollution 
@@ -27,7 +27,7 @@ The happiness ranking is drawn from another source to compare our findings with 
 **All data is collected from respondents and not from government sources**
 
 
-##Questions
+## Questions
 1.	Comparing and contrasting the countries I have visited (Ghana, Antigua, Japan) with a ‘control’ my hometown 
 2.	What are the significant measures to quality of life?
     a.	Crime rates/safety
@@ -40,7 +40,7 @@ The happiness ranking is drawn from another source to compare our findings with 
     with the measures used
 
 
-##Sources:
+## Sources:
 [QOL Ghana](https://www.numbeo.com/quality-of-life/in/Accra)
 [QOL Japan](https://www.numbeo.com/quality-of-life/country_result.jsp?country=Japan)
 [QOL Antigua](https://www.numbeo.com/quality-of-life/country_result.jsp?country=Antigua+And+Barbuda)
@@ -49,14 +49,15 @@ The happiness ranking is drawn from another source to compare our findings with 
 [United Nations Sustainable Development](https://worldhappiness.report/data/)
 
 
-##The Process
+## The Process
 After finding my sources I web scraped the quality of life and its parameters for each respective country/city using python. I then built dataframes and exported them to PowerBI. Using PowerBI, I cleaned the data and created subsets of dataframes to present as visuals.
 
 
-##Technologies Used
+## Technologies Used
 Python/beautiful soup/pandas - for web scraping, normalizing and creating of the dataframes
-powerbi - for creating an interactive dashboard
+powerbi - for cleaning dataframes, creating subsets, and creating an interactive dashboard
 git - for version control
 
 
-##Conclusion
+## Conclusion
+Although I thouroughly enjoyed my various experiences in each country, Columbia, for me, remains the best place for me. As I travel I will expand my dashboard and maybe then, my opinion may change.
